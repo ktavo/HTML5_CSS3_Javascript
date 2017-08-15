@@ -7,21 +7,19 @@ header, section, footer, aside, nav, article, figure, figcaption, hgroup
 	display: block;
 }
 
-.articulo
-{
+.articulo{
 	background-color: #8cbc00;
 	border: 1px dashed black;
 	margin-bottom: 5px;
 }
 
-#footerPagina
-{
+#footerPagina{
 	text-align: center;
 	color: #AAA;
 	border: 3px solid #AAA;
 }
-#cabecera
-{
+
+#cabecera{
 	text-align: center;
 	background: #FFFBB9;
 	border: 1px dashed #999;
@@ -29,94 +27,90 @@ header, section, footer, aside, nav, article, figure, figcaption, hgroup
 	margin: 10px;
 }
 
-#menu
-{
+#menu{
 	background: #CCC;
 	padding: 5px 10px;
 }
-#menu li
-{
+
+#menu li{
 	display: inline-block;
 	border: 1px dashed #333;
 	list-style: none;
 	padding: 5px;
 	font: bold 14px verdana, sans-serif;
-
 }
 
-#seccion
-{
+#seccion{
 	width: 70%;
 	margin: 20px;
 	float: left;
 }
-#columna
-{
+
+#columna{
 	width: 20%;
 	margin: 20px 0px;
 	float: left;
 	padding: 20px;
 	background: #CCC;
 }
-p.articulo1
-{
+
+p.articulo1{
 	font-size: 20px;
 }
-p#articulo2
-{
+
+p#articulo2{
 	font-size: 20px;
 	color: blue;
 }
-p#aside
-{
+
+p#aside{
 	font-size: 24px;
 	color: red;
 }
-p[name="especial"]
-{
+
+p[name="especial"]{
 	font-size: 25px;
 	color: green;
 }
-li:nth-child(1)
-{
+
+li:nth-child(1){
 	/*background: gray;*/
 }
-li:last-child
-{
+
+li:last-child{
 	/*color: red;*/
 }
-li#lastBike + li
-{
+
+li#lastBike + li{
 	/*
 	background: #8cbc00;
 	font-size: 22px;
 	*/
 }
-.tituloArticulos
-{
+
+.tituloArticulos{
 	text-align: center;
 	font-size: 24px;
 	color: 8cbc00;
 }
-.subTituloArticulos
-{
+
+.subTituloArticulos{
 	color: green;
 	font-size: 15px;
 }
-.footerArticulo
-{
+
+.footerArticulo{
 	text-align: right;
 	border: 3px solid;
 }
 
-#footerPagina
-{
+#footerPagina{
 	width: 98%;
 	clear: both;
 	border-top: 2px solid #CCC;
 }
-time
-{
+
+time{
 	background-color: #777;
 }
 
