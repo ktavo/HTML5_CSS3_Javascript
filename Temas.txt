@@ -16,7 +16,7 @@ Temas
 15  API Drag and Drop Parte IV Manipular Documentos
 16 GeoLocation
 17 API GeoLocation
-18 
+18 API Web Storage
 
 Curso
 
