@@ -1,0 +1,22 @@
+#cajaFormulario{
+	float: left;
+	padding: 20px;
+	border: 1px solid black;
+}
+
+#cajaDatos{
+	float: left;
+	width: 400px;
+	margin-left: 20px;
+	padding: 20px;
+	border: 1px solid black;
+}
+
+#clave, #texto{
+	width: 200px;
+}
+
+#cajaDatos > div{
+	padding: 5px;
+	border-bottom: 1px solid #999;
+}

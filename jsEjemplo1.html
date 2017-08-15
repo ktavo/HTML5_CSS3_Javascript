@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>Ejemplo 1 uso de JS</title>
+		<script src="js/jsEjemplo1.js"></script>
+		<script>
+			function mostrarAlerta()
+			{
+				alert('you clicked me');
+			}
+			function hacerClick()
+			{
+				document.getElementById('button2').onclick=mostrarAlerta;
+			}
+			window.onload=hacerClick;
+		</script>
+	</head>
+	<body >
+		<div id="principal">
+			<input id="button0" onClick="hacerClick3()" type="button" value="click me 0!">
+			<input onClick="alert('Pista click pista')" onMouseOver="alert('cant touch this!')" type="button" value="click me!">
+			<input id="button2" type="button" value="click me 2!">
+			<input id="button3" onClick="hacerClick2()" type="button" value="click me 3!">
+
+		</div>
+	</body>
+</html>

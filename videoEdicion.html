@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Procesando Video</title>
+		<script src="js/videoEdicion.js"></script>
+		<style type="text/css">
+			section#canvas, section#video
+			{
+				display: inline-block;
+				margin: 10px;
+				padding: 5px;
+				border: 1px solid #999;
+			}
+		</style> 
+	</head>
+	<body>
+		<section class="video">
+			<video id="media" width="500" heigth="300">
+				<source src="videos/YamahaR3.mp4">
+				<source src="videos/KTMRC200.ogv">
+			</video>
+		</section>
+		<section id="canvas">
+			<canvas id="lienzo" width="500" heigth="300">
+				Su navegador no soporta el elemento canvas
+			</canvas>
+		</section>
+	</body>
+</html>

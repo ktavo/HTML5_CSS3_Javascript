@@ -1,0 +1,21 @@
+#cajaSoltar{
+	float: left;
+	width: 500px;
+	height: 300px;
+	margin: 10px;
+	border: 1px solid #999;
+}
+#cajaImagenes{
+	float: left;
+	width: 420px;
+	margin:10px;
+	border: 1px solid #999;
+}
+#cajaImagenes > img{
+	float:left;
+	padding: 5px;
+}
+.imagen{
+	height: 200px;
+	width: 400px;
+}
