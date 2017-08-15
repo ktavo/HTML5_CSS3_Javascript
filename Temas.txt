@@ -1,0 +1,23 @@
+Temas
+1 Intro
+2 CSS3 Básico
+3 Herramientas Avanzadas CSS3 Parte I
+4 Herramientas Avanzadas CSS3 Parte II
+5 Javascript
+6 APIs en Javascript
+7 API Canvas Parte I
+8 API Canvas Parte II
+9 API Canvas Parte III
+10 API Canvas Parte IV Animaciones
+11 API Canvas Parte V Procesamiento Video
+12 API Drag and Drop Parte I
+13 API Drag and Drop Parte II
+14 API Drag and Drop Parte III
+15  API Drag and Drop Parte IV Manipular Documentos
+16 GeoLocation
+17 API GeoLocation
+18 
+
+Curso
+
+https://www.youtube.com/watch?v=qz8Q1UGQdts&index=1&list=PLS3ZgoVufwTmwDW7CPCMWixXJyjNuur87
